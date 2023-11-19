@@ -36,7 +36,7 @@ namespace TestNotationPolonaise
                     float a = float.Parse(vec[k + 1]);
                     float b = float.Parse(vec[k + 2]);
 
-                    // calcul
+                    // calculs
                     float result = 0;
                     switch (vec[k])
                     {
